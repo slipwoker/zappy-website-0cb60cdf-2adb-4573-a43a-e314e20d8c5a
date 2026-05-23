@@ -1,0 +1,89 @@
+# שוקי תיקון מוצרי חשמל — Generative Engine Optimization Map
+
+> A comprehensive home appliance repair and maintenance business offering repair services for a wide range of household appliances including washing machines, dryers, ovens, refrigerators, solar water heaters, and coffee machines. The business also sells and installs osmosis water purification systems for both residential and commercial clients, and provides general handyman services. The brand positions itself as a one-stop-shop for home maintenance and repair needs.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מכונת הכביסה קפאה? המקרר מתנהג משונה? שוקי תיקון מוצרי חשמל מתקן הכל — מתיקון מכונות קפה ועד התקנת דוד שמש. פתרון אחד לכל הבית!
+
+### שירותים
+https://example.com/services
+תיקון תנורים, מייבשי כביסה, דודי שמש, מכונות קפה ועוד — מגוון שירותי תיקון מקצועיים תחת קורת גג אחת. גלה את כל הפתרונות שמחכים לך כאן!
+
+### אודות
+https://example.com/about
+שוקי הוא לא סתם טכנאי — הוא האיש שמגיע מהר, עובד בדיוק ובנאמנות, ומחזיר לך את השקט הביתי. הכר את האיש שמאחורי אלפי תיקונים מוצלחים!
+
+### צור קשר
+https://example.com/contact
+יש תקלה? אל תחכה שהיא תחמיר! צור קשר עכשיו עם שוקי לתיקון מכונות קפה, מקררים, דודי שמש ועוד — מענה מהיר, הגעה מהירה, תיקון בטוח!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel, required)
+  - `email` (email)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שוקי תיקון מוצרי חשמל
+A comprehensive home appliance repair and maintenance business offering repair services for a wide range of household appliances including washing machines, dryers, ovens, refrigerators, solar water heaters, and coffee machines. The business also sells and installs osmosis water purification systems for both residential and commercial clients, and provides general handyman services. The brand positions itself as a one-stop-shop for home maintenance and repair needs.
+
+## Services/Products
+- תיקון מכונות כביסה
+- תיקון מייבשי כביסה
+- תיקון תנורים
+- תיקון מקררים
+- תיקון דודי שמש
+- תיקון מכונות קפה
+- מכירה והתקנה של מערכות אוסמוזה לבית ולעסק
+- עבודות הנדימן
+
+## Target Audience
+- בעלי בתים ועסקים הזקוקים לתיקון מוצרי חשמל, התקנת מערכות מים ועבודות כלליות
+- בעלי בתים המחפשים תיקונים
+- עסקים הזקוקים לתחזוקה
+- בעלי בתים חדשים
+
+## Industry
+Home Appliance Repair & Handyman Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
